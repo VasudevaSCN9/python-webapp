@@ -19,13 +19,13 @@ footer {
    left: 0;
    bottom: 0;
    width: 100%;
-   background-color: darkgray;
+   background-color: rgb(180, 45, 113);
    text-align: center;
 }
 
-.joke { background-color: cadetblue;
+.joke { background-color: rgb(134, 190, 69);
         padding: 1%;
-        color: white;
+        color: rgb(106, 132, 206);
         font-family: Verdana, serif;
 }
 .question {
@@ -33,7 +33,7 @@ footer {
 }
 
 .button {
-  background-color: rgb(81, 136, 187);
+  background-color: rgb(75, 182, 141);
   border: none;
   color: white;
   padding: 15px 32px;
